@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit'
-import addPost from "../features/addPost/addPostSlice";
+import addPost from "../pages/features/addPost/addPostSlice";
 
 
 export const store = configureStore({

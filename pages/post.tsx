@@ -1,6 +1,6 @@
 import {useSelector} from 'react-redux';
 import ReactTimeAgo from 'react-time-ago';
-import {RootState} from './app/store';
+import {RootState} from '../app/store';
 import Image from 'next/image';
 import arrow from '../public/Arrow.svg'
 import {useRouter} from "next/router";
