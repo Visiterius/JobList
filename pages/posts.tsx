@@ -1,5 +1,5 @@
 import {useDispatch} from "react-redux";
-import {addPost} from "./features/addPost/addPostSlice";
+import {addPost} from "../app/addPostSlice";
 import ReactTimeAgo from "react-time-ago";
 import location from '../public/location.svg'
 import Image from "next/image";
